@@ -1,6 +1,6 @@
 class Word
     # Referenced this for guess?(letter) and figuring out how to convert
-    # the display to input letters
+    # the display to input letters: https://codereview.stackexchange.com/questions/189673/hangman-game-in-ruby
     
     # Stores the provided word in an instance variable and
     # setups up any other instance variables.
